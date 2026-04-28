@@ -54,7 +54,13 @@ originais ou fakes. | [Ver Projeto](https://github.com/RaquelNogueira20/portifol
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto Engenharia Reversa** | reconstruir um aplicativo funcional a partir da observação de sua interface externa. | [Ver Projeto](https://github.com/RaquelNogueira20/portifolio_raquelNogueira/tree/main/projeto-mvp) |
+| **Projeto Engenharia Reversa** | reconstruir um aplicativo funcional a partir da observação de sua interface externa. | [Ver Projeto](https://github.com/RaquelNogueira20/portifolio_raquelNogueira/tree/main/projeto-engenharia-reversa) |
+
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto Engenharia de Prompt** | Prompt Estruturado em XML para gerar uma página HTML Single Page com CSS integrado. | [Ver Projeto]() |
+
  
 ---
  
