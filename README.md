@@ -1,21 +1,20 @@
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# Raquel Ramos Nogueira
+> Estudante de Análise e Desenvolvimento de Sistemas
  
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-ramos-nogueira-9b0334274?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquel.ramos.n04@email.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/RAQUELRAMOSNOGUEIRA/Downloads/Curriculo%20-%20Raquel%20Ramos%20Nogueira.pdf)
  
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o[2º período de Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em Análise de Dados .
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:**  Python, Java Script.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
 ---
  
@@ -44,7 +43,13 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto MVP+** | Clonagem do site whatsmyname. | [Ver Projeto](./projeto-ia-churn/) |
+| **Projeto MVP+** | Clonagem do site whatsmyname. | [Ver Projeto](https://github.com/RaquelNogueira20/portifolio_raquelNogueira/tree/main/projeto-mvp) |
+
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto Laboratorio de Classificação Visual** | atividade tirando fotos de 40 tênis diferentes, separando pelas categorias
+originais ou fakes. | [Ver Projeto]() |
  
 ---
  
