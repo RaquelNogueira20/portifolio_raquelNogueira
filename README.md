@@ -44,7 +44,7 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Projeto MVP+** | Clonagem do site whatsmyname. | [Ver Projeto](./projeto-ia-churn/) |
  
 ---
  
