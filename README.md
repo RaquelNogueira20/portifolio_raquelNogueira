@@ -49,7 +49,12 @@ Atualmente cursando o[2º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projeto Laboratorio de Classificação Visual** | atividade tirando fotos de 40 tênis diferentes, separando pelas categorias
-originais ou fakes. | [Ver Projeto]() |
+originais ou fakes. | [Ver Projeto](https://github.com/RaquelNogueira20/portifolio_raquelNogueira/tree/main/projeto-laboratorio-de-classificacao-visual) |
+
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Projeto Engenharia Reversa** | reconstruir um aplicativo funcional a partir da observação de sua interface externa. | [Ver Projeto](https://github.com/RaquelNogueira20/portifolio_raquelNogueira/tree/main/projeto-mvp) |
  
 ---
  
