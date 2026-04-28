@@ -1,0 +1,65 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User preferences and search history",
+      "type": "object",
+      "properties": {
+        "lastSearches": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "query": { "type": "string" },
+              "type": { "type": "string", "enum": ["username", "email"] },
+              "timestamp": { "type": "number" }
+            }
+          }
+        },
+        "favoriteFilters": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["lastSearches", "favoriteFilters"]
+    },
+    "MonitoredList": {
+      "title": "Monitored List",
+      "description": "A list of contacts being monitored for updates",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "createdAt": { "type": "number" },
+        "contactCount": { "type": "number" }
+      },
+      "required": ["name", "createdAt"]
+    },
+    "MonitoredContact": {
+      "title": "Monitored Contact",
+      "description": "A specific contact (username or email) being monitored",
+      "type": "object",
+      "properties": {
+        "query": { "type": "string" },
+        "type": { "type": "string", "enum": ["username", "email"] },
+        "lastChecked": { "type": "number" },
+        "status": { "type": "string", "enum": ["active", "updated", "archived"] },
+        "lastUpdateDetails": { "type": "string" }
+      },
+      "required": ["query", "type", "lastChecked", "status"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User specific data"
+    },
+    "/users/{userId}/lists/{listId}": {
+      "schema": "MonitoredList",
+      "description": "Monitored lists for the user"
+    },
+    "/users/{userId}/lists/{listId}/contacts/{contactId}": {
+      "schema": "MonitoredContact",
+      "description": "Contacts within a monitored list"
+    }
+  }
+}

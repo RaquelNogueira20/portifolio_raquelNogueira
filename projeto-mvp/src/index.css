@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-pink: #fdf2f8;
+  --color-brand-dark-pink: #be185d;
+  --color-brand-lilac: #d8b4fe;
+  --color-brand-dark-blue: #1e3a8a;
+  
+  /* Mapping existing brand colors to the new palette for compatibility */
+  --color-brand-purple: #d8b4fe;
+  --color-brand-purple-light: #e9d5ff;
+  --color-brand-black: #1e3a8a;
+
+  --shadow-glass: 0 8px 32px 0 rgba(31, 38, 135, 0.07);
+}
+
+@layer base {
+  body {
+    @apply bg-brand-pink text-brand-dark-blue antialiased min-h-screen;
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(216, 180, 254, 0.15) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(253, 242, 248, 0.1) 0px, transparent 50%),
+      radial-gradient(at 100% 100%, rgba(216, 180, 254, 0.1) 0px, transparent 50%),
+      radial-gradient(at 0% 100%, rgba(253, 242, 248, 0.15) 0px, transparent 50%);
+  }
+}
